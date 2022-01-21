@@ -1,0 +1,19 @@
+.slider-bg-color{
+    background-color: #feeae9;
+}
+.watch-bg-color{
+    background-color: #ffa500;
+}
+.bag-bg-color{
+    background-color: #da70d6;
+}
+.shoe-bg-color{
+    background-color: #0000ff;
+}
+.button-color{
+    background-color: #ff2f81;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
